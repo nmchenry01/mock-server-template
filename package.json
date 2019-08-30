@@ -1,0 +1,22 @@
+{
+  "name": "mock-server-template",
+  "version": "1.0.0",
+  "description": "A template for deploying a mock REST API for rapid development purposes",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db/db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.2.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}
