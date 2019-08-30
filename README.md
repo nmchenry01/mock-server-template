@@ -1,3 +1,1 @@
 # Mock-Server-Template
-
-
