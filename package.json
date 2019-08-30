@@ -17,6 +17,7 @@
     "prettier": "^1.18.2"
   },
   "dependencies": {
+    "faker": "^4.1.0",
     "json-server": "^0.15.0"
   }
 }
